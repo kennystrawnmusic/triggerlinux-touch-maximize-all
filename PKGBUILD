@@ -1,4 +1,4 @@
-pkgname=triggerbox-touch-maximize-all
+pkgname=triggerlinux-touch-maximize-all
 _pkgname=touch-maximize-all
 pkgver=1.0
 pkgrel=1
